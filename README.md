@@ -26,6 +26,8 @@ This is my talk given at WDCM about the Nim programming language.
 
 [Getting Started with Nim - II](http://akehrer.github.io/posts/getting-started-with-nim-2/)
 
+[A cursory look at meta-programming in Nim](http://blog.ldlework.com/2015/05/01/a-cursory-look-at-meta-programming-in-nim/)
+
 [OSCON 2015 - Andreas Rumpf - Nim: An Overview](https://www.youtube.com/watch?v=4rJEBs_Nnaw)
 
 [Andreas Rumpf at Nim workshop](https://www.youtube.com/watch?v=zb3Sqs7lNJo)
