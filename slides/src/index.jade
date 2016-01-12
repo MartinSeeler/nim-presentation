@@ -1,0 +1,58 @@
+doctype html
+html
+  head
+    meta(charset='utf-8')
+    meta(name='viewport', content='width=device-width, initial-scale=1, maximum-scale=1')
+    title My awesome presentation
+
+    link(rel='stylesheet', type='text/css', href='build/build.css')
+
+  body
+
+    article
+
+      section
+        h2 Introduction to Nim
+        h3
+          a(href='https://twitter.com/Chasmo90') @Chasmo90
+        img.avatar.avatar--small(src='images/profile.jpg')
+
+      section
+        h3 Agenda
+        ul.bullet
+          li Theory
+          li Demo
+      section
+        h3 Designed to be
+        ul.bullet
+          li Efficient
+          li Expressive
+          li Elegant
+      section
+        h3 Goals of Nim
+        ul.bullet
+          li As fast as C
+          li As expressive as Python
+          li As extensible as Lisp
+      section
+        h3 Usecases for Nim
+        ul.bullet
+          li Games
+          li Web Development
+          li Scripts / CLI
+          li Scientific Computing
+          li OS / Compilers
+      section
+        h3 Compile flags
+        ul.bullets
+          li `--opt:speed`
+          li `--opt:size`
+          li `-d:release`
+      section
+        h2 DEMO
+      section
+        h2 Q&A
+      section
+        h2 Thanks!
+
+    script(src='build/build.js')
